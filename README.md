@@ -1,5 +1,5 @@
 # MacREU2017ImageProcessing
-MacREU Mathematica Wolfram
+MacREU Mathematica Wolfram  
 This library of Wolfram Language packages implement automated threshold 
 photographic and drift analysis of multiple objects against a background.
 This can be used for various forms of photoluminescent characterizations.
